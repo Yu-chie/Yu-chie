@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋 Hi, I’m Victoria Yuki M. Ilano
+
+A Computer Engineering Student at the Polytechnic University of the Philippines
+
+- 🌱 I’m currently learning Python and HTML
+- 📫 How to reach me: rrainy011306@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yu-chie&show_icons=true&theme=radical)](https://github.com/Yu-chie/github-readme-stats)
 
 <!--
 **Yu-chie/Yu-chie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
