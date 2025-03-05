@@ -5,7 +5,7 @@
 </p>
 
 - 🌱 I’m currently learning Python and HTML
-- 📫 How to reach me: rrainy011306@gmail.com
+- 📫 How to reach me: victoriayukimilano@iskolarngbayan.pup.edu.ph
 
 💻 Languages and Tools I Use: <br/>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
