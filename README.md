@@ -24,10 +24,16 @@
   </a>
 </p>
 
-📊 GitHub Stats:<br/>
-![](https://github-readme-stats.vercel.app/api?username=Yu-chie&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Yu-chie&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-chie&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yu-chie&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Yu-chie&theme=radical&hide_border=false" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-chie&theme=radical&hide_border=false&layout=compact" />
+</p>
 
 <!--
 💻 Tech Stack:<br/>
