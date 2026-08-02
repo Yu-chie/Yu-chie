@@ -24,14 +24,6 @@
   </a>
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Yu-chie&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Yu-chie&theme=radical&hide_border=false" />
-</p>
-
 <!--
 💻 Tech Stack:<br/>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
